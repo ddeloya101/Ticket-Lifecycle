@@ -1,9 +1,8 @@
-# ticket-lifecycle
+# osTickets and Ticket Lifecycle
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - osTickets and Ticket Lifecycle </h1>
 This tutorial outlines the process of  creating, sorting, and solving tickets in osTicket .<br />
 
 
